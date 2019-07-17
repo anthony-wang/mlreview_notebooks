@@ -1,6 +1,6 @@
 # mlreview_notebooks
 
-This repo contains Jupyter notebooks associated with the review article:
+This repo contains Jupyter notebooks associated with the [review article](https://arxiv.org/abs/1803.08823):
 
 ## A high-bias, low-variance introduction to Machine Learning for physicists
 By: Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab
